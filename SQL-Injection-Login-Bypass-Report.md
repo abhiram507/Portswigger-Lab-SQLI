@@ -93,13 +93,13 @@ Content-Length: 0
 
 Proof of Error (Injection Test)
 
-![SQL Injection Error Triggered]
+![SQL Injection Error Triggered](https://github.com/abhiram507/Portswigger-Lab-SQLI/blob/80e9d409cab6bffabbf4ddfcfce73c61daf62e52/error-injection.jpg)
 
 Figure 1: Database error after injecting single quote ('), confirming lack of input sanitization.
 
 Proof of Successful Exploitation
 
-![Successful Login as Administrator]
+![Successful Login as Administrator](  )
 
 Figure 2: Logged in as administrator after payload administrator'--, bypassing the password check.
 
