@@ -99,7 +99,7 @@ Figure 1: Database error after injecting single quote ('), confirming lack of in
 
 Proof of Successful Exploitation
 
-![Successful Login as Administrator](  )
+![Successful Login as Administrator](https://github.com/abhiram507/Portswigger-Lab-SQLI/blob/8035cbaf6a2e78ef31622e8eb2e33516edc630a9/admin-login-success.jpg)
 
 Figure 2: Logged in as administrator after payload administrator'--, bypassing the password check.
 
